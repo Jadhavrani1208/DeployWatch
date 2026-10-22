@@ -8,6 +8,8 @@ public class DeploywatchApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DeploywatchApplication.class, args);
+		this is an error;
+
 	}
 
 }
